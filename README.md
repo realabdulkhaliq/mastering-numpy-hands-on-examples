@@ -11,3 +11,7 @@ NumPy is short for "Numerical Python".
 It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 
 NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
+
+NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
+
+The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.
