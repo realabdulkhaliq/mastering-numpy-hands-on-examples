@@ -15,3 +15,7 @@ NumPy was created in 2005 by Travis Oliphant. It is an open source project and y
 NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
 
 The array object in NumPy is called `ndarray`, it provides a lot of supporting functions that make working with ndarray very easy.
+
+NumPy arrays are stored at one continuous place in memory unlike lists, so processes can access and manipulate them very efficiently.
+
+This behavior is called locality of reference in computer science.
