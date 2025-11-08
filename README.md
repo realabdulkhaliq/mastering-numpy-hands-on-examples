@@ -12,6 +12,8 @@ It provides support for large, multi-dimensional arrays and matrices, along with
 
 NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
 
+The source code for NumPy is located at this github repository https://github.com/numpy/numpy
+
 NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
 
 The array object in NumPy is called `ndarray`, it provides a lot of supporting functions that make working with ndarray very easy.
