@@ -21,3 +21,5 @@ The array object in NumPy is called `ndarray`, it provides a lot of supporting f
 NumPy arrays are stored at one continuous place in memory unlike lists, so processes can access and manipulate them very efficiently.
 
 This behavior is called locality of reference in computer science.
+
+`pip install numpy`
