@@ -23,3 +23,7 @@ NumPy arrays are stored at one continuous place in memory unlike lists, so proce
 This behavior is called locality of reference in computer science.
 
 `pip install numpy`
+
+Create an alias with the as keyword while importing:
+
+`import numpy as np`
