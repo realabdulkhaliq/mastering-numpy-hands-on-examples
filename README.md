@@ -27,3 +27,5 @@ This behavior is called locality of reference in computer science.
 Create an alias with the as keyword while importing:
 
 `import numpy as np`
+
+`print(np.__version__)`
