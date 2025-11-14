@@ -37,3 +37,7 @@ To create an ndarray, we can pass a list, tuple or any array-like object into th
 ### 0-D Arrays
 
 0-D arrays, or Scalars, are the elements in an array. Each value in an array is a 0-D array.
+
+### 1-D Arrays
+
+An array that has 0-D arrays as its elements is called uni-dimensional or 1-D array.
