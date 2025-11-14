@@ -33,3 +33,7 @@ Create an alias with the as keyword while importing:
 To create an ndarray, we can pass a list, tuple or any array-like object into the array() method, and it will be converted into an ndarray
 
 `arr = np.array([1, 2, 3, 4, 5])`
+
+### 0-D Arrays
+
+0-D arrays, or Scalars, are the elements in an array. Each value in an array is a 0-D array.
