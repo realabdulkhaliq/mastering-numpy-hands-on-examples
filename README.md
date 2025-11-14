@@ -45,3 +45,5 @@ An array that has 0-D arrays as its elements is called uni-dimensional or 1-D ar
 ### 2-D Arrays
 
 An array that has 1-D arrays as its elements is called a 2-D array.
+
+These are often used to represent matrix or 2nd order tensors.
