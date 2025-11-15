@@ -53,3 +53,7 @@ These are often used to represent matrix or 2nd order tensors.
 An array that has 2-D arrays (matrices) as its elements is called a 3-D array.
 
 NumPy Arrays provides the ndim attribute that returns an integer that tells us how many dimensions the array have.
+
+### Check Number of Dimensions
+
+`print(arr.ndim)`
