@@ -1,3 +1,4 @@
+# Program to create and display arrays of different dimensions using NumPy
 import numpy as np
 
 arr_0d = np.array(42)
