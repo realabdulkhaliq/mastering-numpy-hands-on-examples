@@ -16,6 +16,9 @@ arr_2d = np.array([[1,2,3,4,5],
 print('2nd element on 1st row: ', arr_2d[0, 1]) # R C -> 2
 print('5th element on 2nd row: ', arr_2d[1, 4]) # R C -> 10
 
+print('Last element from 2nd dim: ', arr_2d[1, -1]) # R C -> 10
+
+
 arr_3d = np.array([[[1, 2, 3], 
                     [4, 5, 6]], 
                    [[7, 8, 9], 
