@@ -46,3 +46,6 @@ print(arr_3d[0, 1, 2]) # 6
 # 6
 # Since we selected 2, we end up with the third value:
 # 6
+
+arr_3d_quiz = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
+print(arr_3d_quiz[1, 1, 0])
