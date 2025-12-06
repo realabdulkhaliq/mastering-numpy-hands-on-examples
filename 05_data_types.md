@@ -15,3 +15,5 @@ O - object
 S - string
 U - unicode string
 V - fixed chunk of memory for other type ( void )
+
+Reference https://www.w3schools.com/python/numpy/numpy_data_types.asp
