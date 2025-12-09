@@ -24,3 +24,11 @@ print(arr3.dtype)
 # A non integer string like 'a' can not be converted to integer (will raise an error):
 
 arr4 = np.array(['a', '2', '3'], dtype='i') # Error
+
+# Converting Data Type on Existing Arrays
+arr5 = np.array([1.1, 2.1, 3.1])
+
+newarr = arr5.astype('i')
+
+print(newarr)
+print(newarr.dtype)
