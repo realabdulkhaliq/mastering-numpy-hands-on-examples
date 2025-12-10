@@ -32,3 +32,7 @@ newarr = arr5.astype('i')
 
 print(newarr)
 print(newarr.dtype)
+
+newarr1 = arr5.astype(int) # Change data type from float to integer by using int as parameter value
+print(newarr1)
+print(newarr1.dtype)
