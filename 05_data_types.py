@@ -36,3 +36,12 @@ print(newarr.dtype)
 newarr1 = arr5.astype(int) # Change data type from float to integer by using int as parameter value
 print(newarr1)
 print(newarr1.dtype)
+
+# Change data type from integer to boolean
+
+arr6 = np.array([1, 0, 3])
+
+newarr2 = arr6.astype(bool)
+
+print(newarr2)
+print(newarr2.dtype)
