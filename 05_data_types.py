@@ -45,3 +45,8 @@ newarr2 = arr6.astype(bool)
 
 print(newarr2)
 print(newarr2.dtype)
+
+arr7 = np.array([-1, 0, 1])
+newarr3 = arr7.astype(bool)
+print(newarr3)
+
