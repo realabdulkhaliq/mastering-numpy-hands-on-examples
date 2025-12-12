@@ -48,5 +48,4 @@ print(newarr2.dtype)
 
 arr7 = np.array([-1, 0, 1])
 newarr3 = arr7.astype(bool)
-print(newarr3)
-
+print(newarr3) # [-1  0  1] -> [ True False  True]
