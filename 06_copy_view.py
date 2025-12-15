@@ -6,3 +6,9 @@ arr[0] = 42
 
 print(arr)
 print(x)
+
+y = arr.view()
+arr[0] = 42
+
+print(arr)
+print(y)
